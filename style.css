@@ -45,7 +45,7 @@
 }
 body{
 
-    background-color: black;
+    background-image: url(Images/backs.svg);
     max-width: max-content;
     margin: auto;
     color:whitesmoke;
@@ -342,7 +342,7 @@ body{
     border-color: #10558d;
     border-width: thin;
     text-align: center;
-    background-image: url(Images/back.jpg);
+    background-color: black;
    
     
 }

@@ -25,7 +25,7 @@
                    
                     
                     <div class="dropdown2" >
-                        <li class="link2" ><a id="a" href="Tree.php" onMouseOver="this.style.color='#818181'" onMouseOut="this.style.color='whitesmoke'" style="margin-right:120px;">Help</a></li>
+                        <li class="link2" ><a id="a" href="Help.php" onMouseOver="this.style.color='#818181'" onMouseOut="this.style.color='whitesmoke'" style="margin-right:120px;">Help</a></li>
                     </div>
                    
                 </ul>

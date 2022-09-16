@@ -129,7 +129,7 @@
 
                 $CLineManager = $record['reportingLine']; 
                 
-                $image = $record['image'];
+                $image = $record['Image'];
                 
                 echo "
             <div class=\"Image_content2\" id=\"main2\" >
