@@ -36,6 +36,16 @@
           </nav>
   </section>"; 
   ?>
+   <nav id="nav2" > 
+      <div class="dropdown3" >
+          <li class="link2" ><a id="a" href="javascript:void(0)" onMouseOver="this.style.color='#818181'" onMouseOut="this.style.color='whitesmoke'" style="margin-right:120px; color: whitesmoke">&#9776;</a></li>
+          <div class="dropdown-content3" id="table2" style="background-color: black;">
+                  <div class="Log">
+                      <button class="glowEffect" > <a  href="index.php" style="color:whitesmoke ;text-decoration: none;"> Home</a> </button>
+                  </div>
+          </div>
+      </div> 
+    </nav>
 
 
     

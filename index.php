@@ -41,7 +41,7 @@
                   </div>
                   
                   <div class="Log">
-                      <button class="glowEffect" > <a  href="Tree.php" style="color:whitesmoke ;text-decoration: none;"> Help</a> </button>
+                      <button class="glowEffect" > <a  href="Help.php" style="color:whitesmoke ;text-decoration: none;"> Help</a> </button>
                   </div>
           </div>
       </div>
