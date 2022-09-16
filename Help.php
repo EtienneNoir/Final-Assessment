@@ -41,11 +41,25 @@
     
         <div class="About" style="height:fit-content; width: 900px">
           <!-- <h4 id="column">Our orginzation prides itself in helping our customers find their dream computer hardware</h4>!-->
-            <video width="900" height="900" controls>
+            <div> <h1 style="text-align:center"> When inserting first Employee : </h1>
+                
+                <video width="900" height="900" controls>
+                 
+              <source src="CEO.mp4" type="video/mp4">
+            
+            </video>
+            
+            </div><br>
+          
+            <div> <h1 style="text-align:center"> To understand How to use the System : </h1>
+                
+                <video width="900" height="900" controls>
                  
               <source src="Help.mp4" type="video/mp4">
             
-            </video> 
+            </video>
+            
+            </div>
 
         </div>
           
